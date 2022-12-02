@@ -1,0 +1,4 @@
+*_cache/
+build/
+*egg-info/
+.coverage
